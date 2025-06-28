@@ -18,15 +18,6 @@ Personal portfolio website built with HTML, CSS, and JavaScript.
 - JavaScript
 - Font Awesome icons
 
-## File Structure
-
-```
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
 ## Sections
 
 - **Header**: Name, typing animation, social links
