@@ -76,3 +76,12 @@ Form includes validation for:
 ## Browser Support
 
 Works on modern browsers including Chrome, Firefox, Safari, and Edge.
+
+## 📧 Contact
+
+**Khrishman Khadka**
+
+- LinkedIn: [khrishman khadka](https://www.linkedin.com/in/khrishman-khadka-7078a82bb/)
+- Website: [Khrishman](https://khrishman.com.np/)
+
+_Built with ❤️ by Khrishman Khadka_
